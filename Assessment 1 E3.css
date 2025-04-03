@@ -1,0 +1,39 @@
+/*Text*/
+h1 {
+    text-align:center;
+}
+p {
+    margin:auto;
+    text-align:center;
+    border:1px solid black;
+    width:40%
+}
+
+body {
+    background-color:limegreen
+}
+/*Images*/
+.Nature {
+    display: flex;
+  justify-content: center;
+  filter: grayscale(100%);
+  clip-path: ellipse(40% 50%);
+  shape-outside: ellipse(45% 50%);
+  
+
+
+    
+    
+}
+
+
+
+img {
+    width: 200px;
+    height: 300px
+    
+
+    
+    
+}
+
